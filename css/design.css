@@ -320,7 +320,9 @@ hr {
 
 @media screen and (max-width: 800px) {
   .imageBikes {
-    width: 100%; } }
+    width: 100%; }
+  .imageBikes {
+    pointer-events: none; } }
 
 /*Accesories*/
 .cont {
@@ -440,7 +442,9 @@ hr {
     transition: width 250ms ease; }
   @media screen and (max-width: 800px) {
     .main .imageAccesories {
-      width: 80%; } }
+      width: 70%; }
+    .main .imageAccesories {
+      pointer-events: none; } }
 
 .asideTitle, .asideText {
   color: #faebd7; }

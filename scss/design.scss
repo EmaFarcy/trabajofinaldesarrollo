@@ -399,7 +399,8 @@ hr {
 
 @media screen and (max-width:800px){
 	.imageBikes{ width: 100%};
-	}
+	.imageBikes{pointer-events: none};
+}
 
 /*Accesories*/
 .cont{
@@ -504,8 +505,8 @@ hr {
 
 	.imageAccesories{
 		width: 40%;
-
 	}
+
 	.aside{
 		grid-row: 1/7;
 	}
@@ -559,7 +560,8 @@ hr {
 	}
 
 @media screen and (max-width:800px){
-	.imageAccesories{ width: 80%};
+	.imageAccesories{ width: 70%};
+	.imageAccesories{pointer-events: none;}
 
   }
  

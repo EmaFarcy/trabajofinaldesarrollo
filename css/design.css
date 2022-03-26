@@ -108,6 +108,7 @@ hr {
 
 .textAboutUs {
   display: flex;
+  text-align: justify;
   color: #fff;
   display: inline-block;
   margin: 40px; }
@@ -131,63 +132,10 @@ hr {
   justify-content: center;
   align-items: center; }
 
-.parrafo {
-  align-content: center;
-  align-items: center;
-  color: #fff;
-  justify-content: center;
-  z-index: 1;
-  width: 340px;
-  height: 500px;
-  padding: 20px 20px;
-  font-size: 15px;
-  line-height: 1.5;
-  background: black;
-  box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
-  border-radius: 5px;
-  text-align: justify;
-  margin-right: 10px;
-  margin-bottom: 80px; }
-
-.parrafo img {
-  width: 210px;
-  border-radius: 5px;
-  float: left;
-  margin-right: 15px; }
-
-/*Second*/
-.parrafo2 {
-  align-content: center;
-  align-items: center;
-  color: #fff;
-  justify-content: center;
-  z-index: 1;
-  width: 340px;
-  height: 500px;
-  padding: 20px 20px;
-  font-size: 15px;
-  line-height: 1.5;
-  background: black;
-  box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
-  border-radius: 5px;
-  text-align: justify; }
-
-.parrafo2 img {
-  width: 200px;
-  border-radius: 5px;
-  float: right;
-  margin-left: 15px; }
-
-.text2about {
-  width: 80%; }
-
-.left {
-  float: left;
-  width: 20%; }
-
-.right {
-  float: right;
-  width: 20%; }
+.imgFounder1 {
+  width: 500px;
+  margin: 10px;
+  align-content: center; }
 
 /*Contact*/
 .mainContact {

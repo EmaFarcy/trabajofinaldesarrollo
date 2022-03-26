@@ -227,7 +227,7 @@ hr {
   align-items: center;
   text-align: center;
   justify-content: center;
-  margin: 10px; }
+  margin: 40px; }
 
 #logo_aero {
   width: 70px; }
@@ -255,7 +255,7 @@ hr {
   border-style: hidden;
   display: inline;
   width: 30%;
-  padding: 20px;
+  padding: 30px;
   cursor: pointer;
   transition: all 450ms ease; }
 

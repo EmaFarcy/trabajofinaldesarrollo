@@ -5,7 +5,7 @@ El siguiente sitio web corrresponde al estudiante Emanuel Farcy y fue realizado 
 los meses de enero y febrero de 2022.
 Este trabajo es un sitio e-commerce de la tienda de bicicletas AeroBikes, ubicada en la localidad de Villa Carlos Paz de la provincia de Córdoba. 
 
-El sitio cuenta con 5 páginas más una Error Page:
+El sitio cuenta con 5 páginas más una Error Page creada por el propio GitHub:
 .Home
 .About Us
 .Bikes
